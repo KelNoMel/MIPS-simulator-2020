@@ -1,6 +1,3 @@
 ### COMP1521 20T3: ass1: mips_sim ###
-
-Do not push changes to this repository directly.
-Do not change the repository via the web interface.
-
-Submit your work using usage: give class assignment [files...], and it will be automatically pushed to this repository.
+This was the first assignment submitted in for COMP1521 T3 2020
+The aim was to simulate MIPS assembly language, being able to write it in the terminal and function properly.
